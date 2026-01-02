@@ -1,0 +1,29 @@
+1) Base nationale des IRVE (Infrastructures de Recharge pour Véhicules Électriques)
+https://www.data.gouv.fr/datasets/base-nationale-des-irve-infrastructures-de-recharge-pour-vehicules-electriques
+
+2) Infrastructures de recharge pour véhicules électriques (IRVE) — Communauté d’Agglomération du Pays de Grasse (réseau Wiiiz)
+https://www.data.gouv.fr/datasets/infrastructures-de-recharge-pour-vehicules-electriques-irve-1/
+
+3) Bornes de recharges CPS (IRVE) — IZIVIA
+https://www.data.gouv.fr/datasets/bornes-de-recharges-cps/
+
+4) Bornes de recharges IZIVIA Grand Lyon
+https://www.data.gouv.fr/datasets/bornes-de-recharges-izivia-grand-lyon
+
+5) Indigo-Open-Data-IRVE — Indigo Group
+https://www.data.gouv.fr/datasets/indigo-open-data-irve
+
+6) Infrastructure de Recharge Véhicules électriques (IRVE) — e-Totem Infrastructures
+https://www.data.gouv.fr/datasets/infrastructure-de-recharge-vehicules-electriques-irve-e-totem-infrastructures
+
+7) Bornes de Recharge IRVE du réseau R3 — groupe DBT
+https://www.data.gouv.fr/datasets/bornes-de-recharge-irve-du-reseau-r3-groupe-dbt
+
+8) Fichier IRVE Gireve
+https://www.data.gouv.fr/datasets/fichier-irve-gireve
+
+9) Bornes de recharge IRVE du réseau VIRTA
+https://www.data.gouv.fr/datasets/bornes-de-recharge-irve-du-reseau-virta
+
+10) Bornes de recharge publiques du réseau jerecharge.com
+https://www.data.gouv.fr/datasets/bornes-de-recharge-publiques-du-reseau-jerecharge-com/
