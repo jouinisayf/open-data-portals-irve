@@ -1,5 +1,5 @@
 # Data Interoperability and Semantics – Practical Work 2  
-##02 – Open Data Portals  
+## 02 – Open Data Portals  
 
 **Author:** JOUINI Saief Eddine  
 
