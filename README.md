@@ -23,10 +23,6 @@ Moreover, the portal promotes data standardization by encouraging or enforcing t
 ## 2. Type of Data Studied
 
 The analysis focuses on **electric vehicle charging stations (IRVE)**.  
-This type of data is particularly interesting because:
-- It is regulated at the national level  
-- Many different actors publish data (state, local authorities, private operators)  
-- A national schema exists to harmonize the datasets  
 
 The goal is to understand:
 - Which metadata, formats, and schemas are recommended  
