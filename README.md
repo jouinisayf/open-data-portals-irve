@@ -160,8 +160,6 @@ In particular, datasets should include:
 - A licence allowing reuse  
 - Information about update frequency  
 
-These elements help users understand the dataset without opening the file and improve trust and reuse.
-
 ### Enforced metadata
 
 Some metadata elements are effectively enforced:
@@ -169,15 +167,11 @@ Some metadata elements are effectively enforced:
 - A licence must be declared to allow legal reuse  
 - Basic metadata fields are required by the portal  
 
-Without these elements, reuse becomes difficult or legally uncertain.
-
 ### Metadata used in practice
 
 In practice, metadata quality is very heterogeneous.  
 National institutions and aggregators (such as the base nationale IRVE or Gireve) provide complete and well-documented metadata.  
 On the contrary, several private operators and individual contributors publish datasets with missing documentation, unclear update frequency, or unspecified licences.
-
-As a result, metadata recommendations are not always followed.
 
 
 ## 2. Data Formats
@@ -187,8 +181,7 @@ As a result, metadata recommendations are not always followed.
 Data.gouv.fr strongly recommends machine-readable formats, especially:
 - CSV for tabular data  
 - APIs for programmatic access  
-
-These formats are simple, widely supported, and easy to process.
+- JSON for structured data exchange
 
 ### Enforced formats
 
@@ -197,14 +190,10 @@ Although no single format is strictly mandatory, datasets intended for reuse and
 - Structured  
 - Readable by machines  
 
-In practice, CSV is the *de facto* enforced format for IRVE data.
-
 ### Formats used in practice
 
 All analyzed datasets provide data in CSV format, often accompanied by an automatically generated API.  
 This shows a strong convergence toward simple and reusable formats.
-
-Therefore, format recommendations are well applied in practice.
 
 
 ## 3. Data Schemas
@@ -218,8 +207,6 @@ This schema defines:
 - Identifiers  
 - Geographic representations  
 
-It aims to harmonize datasets from different producers.
-
 ### Enforced schemas
 
 For datasets that must be integrated into the national consolidated IRVE database, the schema is strictly enforced.  
@@ -231,8 +218,6 @@ Non-compliant datasets remain isolated on the portal.
 Most recent datasets published by professional actors follow the IRVE schema.  
 However, older datasets or individual initiatives sometimes ignore it completely.
 
-This shows that schema enforcement is effective at the national level, but weaker for independent publications.
-
 
 ## 4. Overall Conclusion
 
@@ -242,5 +227,4 @@ Formats and schemas are well defined and technically enforced for consolidation 
 However, the quality of metadata and governance still depends heavily on the producer.  
 While institutional and professional actors generally follow best practices, others publish datasets with limited documentation and unclear reuse conditions.
 
-Thus, the portal successfully encourages standardization, but full compliance remains uneven in practice.
 
