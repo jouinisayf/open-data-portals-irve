@@ -16,9 +16,6 @@ This portal is the official platform for open data in France. It is managed by *
 - Downloadable files in machine-readable formats (CSV, JSON)  
 - APIs for programmatic access  
 
-Moreover, the portal promotes data standardization by encouraging or enforcing the use of official schemas, such as the **IRVE schema** for electric vehicle charging stations.
-
-
 
 ## 2. Type of Data Studied
 
