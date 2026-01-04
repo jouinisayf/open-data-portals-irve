@@ -43,8 +43,6 @@ The metadata are very complete: the description is clear, the licence is well de
 The dataset is available in CSV format and through an API, which makes it easy to use.  
 In addition, the IRVE schema is strictly applied, ensuring strong consistency between all records.
 
-Overall, this dataset is a very good example of well-standardized and highly reusable open data.
-
 
 
 ### 2. IRVE – Pays de Grasse (Wiiiz)  
@@ -57,9 +55,6 @@ It provides useful information for local users and follows the general IRVE topi
 However, some metadata are missing. There is no clear documentation, and the update frequency is not indicated.  
 In addition, the dataset is marked as not fully compliant with the IRVE schema, so it cannot be included in the national database.
 
-As a result, the dataset is useful at a local level, but difficult to reuse at a national scale.
-
-
 
 ### 3. Bornes de recharge CPS – IZIVIA  
 
@@ -70,9 +65,6 @@ From a technical point of view, the dataset follows the IRVE schema and uses sta
 
 However, the licence is not specified, which makes legal reuse unclear.  
 Also, some fields are stored as simple text, even when more precise data types could be used.
-
-In summary, the dataset is technically usable, but its legal and governance aspects are weak.
-
 
 
 ### 4. Bornes de recharge IZIVIA Grand Lyon  
@@ -85,9 +77,6 @@ It is well structured and clearly aligned with the IRVE schema.
 Identifiers, geographic coordinates, and technical information are correctly provided.  
 However, metadata are limited, especially regarding documentation and update frequency.
 
-Therefore, the dataset is easy to use from a technical perspective, but transparency could be improved.
-
-
 
 ### 5. Indigo Open Data IRVE  
 
@@ -98,9 +87,6 @@ It is one of the highest-quality datasets among those analyzed.
 
 The IRVE schema is fully respected, and the schema version is clearly mentioned.  
 The licence (ODbL) is well defined, and updates are made on a regular basis.
-
-This dataset shows that private operators can publish open data that are both high-quality and well managed.
-
 
 
 ### 6. IRVE e-Totem Infrastructures  
@@ -113,9 +99,6 @@ Technically, it follows the IRVE schema and includes all the main required field
 However, the quality of metadata is low. The licence is missing, documentation is not provided, and the update frequency is not respected.  
 This creates uncertainty for long-term reuse.
 
-As a result, the dataset is technically correct but poorly managed from an open data point of view.
-
-
 
 ### 7. Bornes de recharge IRVE du réseau R3 (groupe DBT)  
 
@@ -126,9 +109,6 @@ It follows the IRVE schema and uses appropriate data types such as boolean, date
 
 However, the description is very short and no documentation is available.  
 The licence is indicated as “Other (Open)”, which is vague and not fully standard.
-
-Therefore, the dataset is technically usable but lacks clarity and openness.
-
 
 
 ### 8. Fichier IRVE Gireve – Données statiques  
@@ -141,9 +121,6 @@ It is published by Gireve, an interoperability platform that collects data from 
 The data are gathered automatically using the OCPI protocol and then converted into the IRVE schema.  
 Metadata are detailed, and the licence is clearly specified.
 
-Thanks to its aggregation role and strong standardization, this dataset is highly reliable and reusable at a national level.
-
-
 
 ### 9. Bornes de recharge IRVE du réseau VIRTA  
 
@@ -155,9 +132,6 @@ It provides basic information about charging stations but does not follow the IR
 Field names are not standardized, some data types are incorrect, and encoding problems are visible.  
 Because of this, the dataset cannot be integrated into the national IRVE system.
 
-This example shows the limitations of non-standard and poorly governed open data.
-
-
 
 ### 10. Bornes de recharge publiques du réseau jerecharge.com  
 
@@ -168,9 +142,6 @@ From a technical perspective, the dataset is well structured and compliant with 
 
 Identifiers and geographic data are correct, and field types are well defined.  
 However, the licence is missing and the update frequency is not respected.
-
-In conclusion, the dataset is technically easy to use, but its legal reliability remains limited.
-
 
 # Final Synthesis: Recommended, Enforced and Used Practices on data.gouv.fr (IRVE datasets)
 
